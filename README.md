@@ -1,7 +1,6 @@
 # -react-ecommerce-website-
 
 
-Certainly! Here's the updated long description tailored for the "Ecommerce Website Project":
 
 Ecommerce Website Project
 Overview
